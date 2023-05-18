@@ -201,3 +201,7 @@ Although we have obtained relatively good results and models, their performance 
 First of all, from the perspective of the dataset (except for some problems of data imbalance and small number of samples), only the features of smoke or cigarettes are not enough to determine whether the person in the picture is smoking. By checking the dataset images, we can even see some other animal images and special situations such as "burning cigarettes dropped on the ground", which also increase the difficulty of model training.
 Nevertheless, there are still some areas for improvement in our process. Regarding the dataset, we can increase the number of training images and add specific content to some of the training images, such as adding some human face images to the no-smoking dataset for training, in order to enhance the model's ability to understand images. (Due to limited GPU computing power, we have made some attempts at the beginning and obtained relatively good results but have not thoroughly optimized.) 
 In addition to the models and frameworks mentioned above, we can also try other frameworks in order to demonstrate relatively better performance.
+
+# Additional document
+Due to the size of the model is too large to upload, please visit Google Cloud Disk
+https://drive.google.com/file/d/1TJsRbJmGgVDYJWMexd0fMXim37rKyTBG/view?usp=share_link
