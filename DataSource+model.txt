@@ -1,0 +1,6 @@
+Because of the upload limitation, the dataset can be downloaded in Kaggle:
+https://www.kaggle.com/datasets/vitaminc/cigarette-smoker-detection/download?datasetVersionNumber=1
+
+Our model can be found in this OneDrive URL:
+https://1drv.ms/u/s!AmIVffcWFoDC1HTGYTKhwCoAgRFb?e=xT0FVt
+
